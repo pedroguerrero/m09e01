@@ -1,7 +1,7 @@
 {
-  "name": "Jane Doe",
-  "profession": "Desarrolladora Full Stack",
-  "shortBio": "Creo soluciones web innovadoras utilizando tecnologías modernas y enfoque centrado en el usuario.",
-  "fullBio": "Soy una desarrolladora Full Stack con más de 5 años de experiencia especializada en crear aplicaciones web dinámicas y responsivas. Me apasiona combinar las mejores prácticas de frontend y backend para construir experiencias de usuario excepcionales.\n\nA lo largo de mi carrera, he trabajado con diversas tecnologías como React, Node.js, Express y MongoDB, siempre buscando la mejor solución para cada proyecto. Me mantengo constantemente actualizada con las nuevas tendencias y herramientas del desarrollo web.\n\nMi enfoque está en crear código limpio, mantenible y escalable, con especial atención al rendimiento y la experiencia de usuario. Disfruto trabajando en equipo y aportando soluciones creativas a problemas complejos.",
+  "name": "Pedro Guerrero",
+  "profession": "Desarrollador Full Stack",
+  "shortBio": "Soy un desarrollador Full Stack apasionado por crear aplicaciones completas, desde la interfaz que los usuarios ven y tocan, hasta la estructura que las hace funcionar detrás de escena.",
+  "fullBio": "Soy un desarrollador Full Stack apasionado por construir aplicaciones completas y funcionales, abarcando tanto el front-end como el back-end. En el front-end, me destaco utilizando React para crear interfaces modernas, dinámicas y fáciles de usar. En el back-end, empleo NestJS, un framework robusto basado en TypeScript, para desarrollar aplicaciones escalables y bien estructuradas. Además, integro soluciones en la nube utilizando AWS, lo que permite que mis proyectos sean seguros, eficientes y fácilmente desplegables a nivel global. Me motiva enfrentar desafíos complejos y encontrar soluciones prácticas mediante herramientas modernas, como contenedores con Docker, la orquestación de Kubernetes y la automatización de CI/CD. Mi enfoque combina creatividad, precisión técnica y aprendizaje constante, siempre buscando impactar positivamente a través del desarrollo de software.",
   "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
 }
